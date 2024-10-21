@@ -15,5 +15,5 @@ for i in range(length_row):
             saddle = 0
             break
     if saddle:
-        print  (min_row,"is the saddle point")
+        print(min_row,"is the saddle point")
         
